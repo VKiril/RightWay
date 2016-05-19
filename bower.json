@@ -1,0 +1,13 @@
+{
+  "name": "BestWay",
+  "authors": [
+    "VKiril <everest0corp@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3"
+  }
+}
